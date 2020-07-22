@@ -1,0 +1,4 @@
+= Carpenter
+
+{doctitle} This is an operator which is able to generate other objects based on different conditions.
+See https://syn.tools/syn/SDDs/0023-managed-services-controller.html[SDD 0023] for details.
